@@ -1,0 +1,12 @@
+module:Auction
+application
+application.art
+application.auction
+application.controllers
+application.exceptions
+application.gui
+application.managers
+application.observer
+application.payment
+application.tools
+application.users
